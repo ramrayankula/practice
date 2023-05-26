@@ -1,4 +1,6 @@
 This file is from secondary branch
-This is the sample file and sample content
+this is another line for secind branch
+
+This is the sample file and samplie content
 this is second line 
 seventh line
